@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khalid</h1>
 <h3 align="center">i am BugBounty Hunter</h3>
-<img align="right" alt="coding" width="400" src="https://i.seadn.io/gae/p9jPZKQ04Vm86g9p4nzJKgi9Ap2T7s07quXvV2W4IDf7S0ckTH8l2-FuH_43it1YhPeCvK_di70XSlsVTul5LsIOuuHrPykhgZKE?auto=format&dpr=1&w=1000">
+<img align="right" alt="coding" width="400" src="[https://i.seadn.io/gae/p9jPZKQ04Vm86g9p4nzJKgi9Ap2T7s07quXvV2W4IDf7S0ckTH8l2-FuH_43it1YhPeCvK_di70XSlsVTul5LsIOuuHrPykhgZKE?auto=format&dpr](https://i.seadn.io/gae/p9jPZKQ04Vm86g9p4nzJKgi9Ap2T7s07quXvV2W4IDf7S0ckTH8l2-FuH_43it1YhPeCvK_di70XSlsVTul5LsIOuuHrPykhgZKE?auto=format&dpr=1&w=1000)=1&w=1000">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qk21&label=Profile%20views&color=0e75b6&style=flat" alt="qk21" /> </p>
 
 <h3 align="left">Connect with me:</h3>
