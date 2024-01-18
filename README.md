@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Khalid</h1>
-<h3 align="center">i am security Professional</h3>
+<h1 align="center">Hi, i am khalid :) </h1>
+<h3 align="center"> cyber security researcher </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qk21&label=Profile%20views&color=0e75b6&style=flat" alt="qk21" /> </p>
 
 <h3 align="left">Connect with me:</h3>
