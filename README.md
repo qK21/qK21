@@ -1,5 +1,5 @@
 <h1 align="center">Hi, i am khalid :) </h1>
-<h3 align="center"> intersted infosec </h3>
+<h3 align="center"> take a look and enjoy <3 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qk21&label=Profile%20views&color=0e75b6&style=flat" alt="qk21" /> </p>
 
 <h3 align="left">Connect with me:</h3>
